@@ -26,9 +26,9 @@ Topics_Project/
 
 ---
 
-## 🔧 How to Use This Project
+## How to Use This Project
 
-### ✅ Prerequisites
+### Prerequisites
 
 - Python 3.8+
 - Jupyter Notebook / Google Colab
@@ -39,7 +39,7 @@ Install required packages:
 pip install -r requirements.txt
 ```
 
-### 🚀 Running the Code
+### Running the Code
 
 1. Clone the repository:
    ```bash
@@ -52,13 +52,13 @@ pip install -r requirements.txt
    - **Google Colab** (recommended for BERT + CNNs)
 
    - `PART_01_FINAL_TEXT_edited.ipynb`: Executes text classification.
-   - `PART_02_FINAL_IMAGE_edited.ipynb`: Executes image classification.
+   - `PART_2_image_classification.ipynb`: Executes image classification.
 
 > 🔗 To view the **executed notebooks with output**, use our [Google Drive folder](https://drive.google.com/drive/folders/1sU9TBAvQ7TWwWebxWyefq0wtr0AEc9-S?usp=sharing).
 
 ---
 
-## 🔍 Project Summary
+## Project Summary
 
 - **Text Embeddings**: TF-IDF, Word2Vec, BERT
 - **Image Models**: CNN, ResNet, EfficientNet
@@ -67,7 +67,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🧭 Future Scope
+## Future Scope
 
 - Extend to **multi-facet classification** (e.g., brand, usage, material)
 - Adapt for **real-time classification** at larger scale
@@ -75,7 +75,7 @@ pip install -r requirements.txt
 
 ---
 
-## ⚠️ Known Limitations
+## ⚠Known Limitations
 
 - Dataset size constrained to ~1000 samples for experimentation
 - GitHub excludes heavy datasets and model binaries
@@ -83,6 +83,6 @@ pip install -r requirements.txt
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 
 This project demonstrates how multimodal ML approaches can automate product categorization and improve recommendation and search systems in e-commerce environments. The model pipeline is modular, scalable, and ready to be extended.
