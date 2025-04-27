@@ -86,3 +86,9 @@ pip install -r requirements.txt
 ## Conclusion
 
 This project demonstrates how multimodal ML approaches can automate product categorization and improve recommendation and search systems in e-commerce environments. The model pipeline is modular, scalable, and ready to be extended.
+
+Repository Links:
+o GitHub Repository: Source code, setup instructions, Documentation
+o https://github.com/Nagamedha/Topics_Project
+o Google Drive: Executed notebook files for Outputs and Results Visualization
+o https://drive.google.com/drive/folders/1sU9TBAvQ7TWwWebxWyefq0wtr0AEc9-S?usp=drive_link
